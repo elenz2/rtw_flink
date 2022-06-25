@@ -15,6 +15,7 @@ object FirstFlink {
 
     resultDataStream.print()
 
+    //执行任务
     env.execute("StreamWordCount")
   }
 }
