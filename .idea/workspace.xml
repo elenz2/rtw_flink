@@ -20,17 +20,13 @@
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="BRANCH:develop" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:main" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </select>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="71cb8fa2-0849-4161-a1da-234c3c2314d0" name="Default Changelist" comment="add maven framework and update a flink project demo.">
-      <change afterPath="$PROJECT_DIR$/src/main/java/FlinkMap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/rtw_flink.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/rtw_flink.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/com/lisr/flink/FirstFlink.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/lisr/flink/FirstFlink.scala" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,10 +47,11 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="main" />
+        <entry key="$PROJECT_DIR$" value="develop" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -111,8 +108,9 @@
       <list>
         <item itemvalue="Application.FlinkMap" />
         <item itemvalue="Application.FirstFlink" />
+        <item itemvalue="Application.FlinkMap" />
         <item itemvalue="Application.FirstFlink" />
-        <item itemvalue="Application.FirstFlink" />
+        <item itemvalue="Application.FlinkMap" />
       </list>
     </recent_temporary>
   </component>
@@ -186,7 +184,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="develop" />
+                        <option value="main" />
                       </list>
                     </value>
                   </entry>
@@ -249,14 +247,14 @@
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="505" y="131" key="SettingsEditor/2560.362.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1656162431669" />
-    <state x="617" y="276" key="Vcs.Push.Dialog.v2" timestamp="1656160481842">
+    <state x="617" y="276" key="Vcs.Push.Dialog.v2" timestamp="1656769501581">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="617" y="276" key="Vcs.Push.Dialog.v2/2560.362.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1656160481842" />
-    <state x="819" y="469" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1656163344408">
+    <state x="617" y="276" key="Vcs.Push.Dialog.v2/2560.362.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1656769501581" />
+    <state x="819" y="469" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1656769673180">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="819" y="469" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/2560.362.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1656163344408" />
+    <state x="819" y="469" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/2560.362.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1656769673180" />
     <state x="687" y="243" width="672" height="678" key="search.everywhere.popup" timestamp="1656768285315">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
