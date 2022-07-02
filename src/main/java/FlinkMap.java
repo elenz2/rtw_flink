@@ -33,6 +33,6 @@ public class FlinkMap {
 
         result.print();
 
-        executionEnvironment.execute("java word count");
+        executionEnvironment.execute("java wordcount");
     }
 }
